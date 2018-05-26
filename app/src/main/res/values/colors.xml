@@ -7,6 +7,8 @@
     <color name="album_title">#4c4c4c</color>
     <color name="gradient_label">#77000000</color>
     <color name="select_label">#96000000</color>
+    <color name="bk_main">#333639</color>
+    <color name="bk_linear">#A0333639</color>
 
     <color name="shadow">#88000000</color>
     <color name="almost_white">#f0f0f0</color>

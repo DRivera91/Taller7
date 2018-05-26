@@ -1,14 +1,19 @@
 package com.example.daniel.taller7.Models;
 
 public class Serie {
-    public String title, Image, seasons,tags;
+    public String title, image, seasons,tags;
 
     public Serie() {
     }
 
+    public Serie(String title, String image) {
+        this.title = title;
+        this.image = image;
+    }
+
     public Serie(String title, String image, String seasons, String tags) {
         this.title = title;
-        Image = image;
+        this.image = image;
         this.seasons = seasons;
         this.tags = tags;
     }
@@ -22,11 +27,11 @@ public class Serie {
     }
 
     public String getImage() {
-        return Image;
+        return image;
     }
 
     public void setImage(String image) {
-        Image = image;
+        this.image = image;
     }
 
     public String getSeasons() {

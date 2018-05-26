@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Taller7</string>
+    <string name="name">Titulo</string>
+    <string name="gender">Etiquetas:</string>
+    <string name="gender_academia">Acción, comedia, escolares, shounen, superpoderes</string>
+    <string name="gender_code">Acción, Ciencia ficción, escolares, mecha, militar, superpoderes</string>
+    <string name="gender_darling">Ciencia ficción, Mecha</string>
+    <string name="gender_erased">Misterio psicológico, seinen, sobrenatural</string>
+    <string name="gender_fullmetal">Acción, ciencia ficción, comedia, mecha, militar</string>
+    <string name="gender_konosuba">Aventuras, comedia, Fantasía, magia, sobrenatural</string>
+    <string name="gender_saint">Aventuras, Ciencia ficción, shounen</string>
+    <string name="gender_shoku">Escolares, shounen, ecchi</string>
+
+    <string name="seasons">Temporadas</string>
+    <string name="cuantity_seasons_1">1 Temporada</string>
+    <string name="cuantity_seasons_2">2 Temporadas</string>
+    <string name="cuantity_seasons_3">3 Temporadas</string>
+    <string name="cuantity_seasons_4">4 Temporadas</string>
+    <string name="season_one">Primera Temporada</string>
+    <string name="season_two">Segunda Temporada</string>
+    <string name="season_three">Tercera Temporada</string>
+    <string name="chapters">Capítulos</string>
+
+    <string name="Academia">My Hero Academia</string>
+
 </resources>
